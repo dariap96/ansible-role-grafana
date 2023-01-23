@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: ansible_role_grafana
   namespace: acme
-  author: Anna Sheludchenko
+  author: Daria
   description: Grafana role for Ubuntu
   company: ITMO Univeristy
 
